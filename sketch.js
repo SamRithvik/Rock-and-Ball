@@ -35,7 +35,7 @@ restitution: 0.9
   var rock_options = {
    // write a code to set value of restitution such that:
    // Rock (Red Circle) bounces less when it hits the bottom.
-   restitution: 0.5
+   restitution: 0
   }
    
   btn2 = createImg('up.png');
